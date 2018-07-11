@@ -22,3 +22,20 @@ git push -u origin master(默认分支)
 （attention：如果在此电脑中未设置过身份，则须进行身份验证 git --global ...详见提示）
 
 for more information, try git --help
+
+创建新分支：
+git branch dev
+
+切换分支
+git checkout dev
+
+git checkout -b dev //创建新的分支并切换
+
+删除分支：
+git branch -d dev
+
+分支合并
+git merge dev
+
+查看分支
+git branch
