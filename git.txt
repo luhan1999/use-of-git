@@ -20,3 +20,5 @@ git push -u origin master(默认分支)
 以后提交直接 git push
 
 （attention：如果在此电脑中未设置过身份，则须进行身份验证 git --global ...详见提示）
+
+for more information, try git --help
